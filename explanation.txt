@@ -1,0 +1,3 @@
+My attempt at creating a neural network program in java that recognizes numbers from 28x28 images.
+
+Work in progress, currently barely functions. I will repair it or rebuild it from the ground up if time permits.
